@@ -1,3 +1,4 @@
 / /status
 /status/*  http://cachet.gopagoda.io/:splat 200
 /dist/* http://cachet.gopagoda.io/dist/:splat 200
+/fonts/* http://cachet.gopagoda.io/fonts/:splat 200
